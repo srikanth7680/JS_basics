@@ -1,0 +1,21 @@
+body{
+  background-color: rgba(234,241,190,255);
+  display: flex;
+
+}
+.brc{
+  font-size: 45px;
+  line-height: 0;
+}
+.g-color{
+  background-color: green;
+}
+.bT{
+  display: block;
+}
+.centre{
+  display: flex;
+}
+.ct{
+  display: inline-block;
+}
